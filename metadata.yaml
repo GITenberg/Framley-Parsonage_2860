@@ -1,5 +1,8 @@
 _repo: Framley-Parsonage_2860
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Trollope, Anthony
@@ -12,6 +15,8 @@ description: "Framley Parsonage is the fourth novel in Anthony Trollope's series
   \ as the Chronicles of Barsetshire. It was first published in serial form in the\
   \ Cornhill Magazine in 1860, then in book form in 1861.\n\n\n From Wikipedia (CC\
   \ BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2860#Framley-Parsonage
 gutenberg_issued: '2001-10-01'
 gutenberg_type: Text
 identifiers:
